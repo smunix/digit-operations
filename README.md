@@ -1,2 +1,4 @@
 # digit-operations
-let's combine digits to make numbers
+
+add description of digit-operations here
+
